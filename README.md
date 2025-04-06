@@ -27,6 +27,10 @@ Connect the components according to the specified pins in the code.
 Usage
 Run the script on your microcontroller.
 The system will automatically turn on the pump when the soil moisture level falls below the threshold.
+
+![smart-irrigation](https://github.com/user-attachments/assets/c08286a2-5be8-4e2e-8830-91eaf47db556)
+
+
 Press the pushbutton to manually control the pump.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
