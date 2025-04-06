@@ -17,8 +17,10 @@ Code Overview
 Installation
 Clone the repository
 
-git clone https://github.com/yourusername/soil-moisture-monitor.git
+git clone https://github.com/tmutambisi/smart-irrigation-system.git
+
 cd soil-moisture-monitor
+
 Upload the code to your microcontroller using a suitable IDE (e.g., Thonny for Raspberry Pi Pico).
 Connect the components according to the specified pins in the code.
 
