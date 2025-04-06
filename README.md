@@ -1,4 +1,5 @@
 # smart-irrigation-system
+![smart-irrigation](https://github.com/user-attachments/assets/8490af65-6d58-4b81-87e6-97da59144025)
 
 This project implements a soil moisture monitoring system using a DHT22 sensor for temperature and humidity measurements, a potentiometer (simulating a soil moisture sensor), and an LED to simulate a water pump. The system also includes a pushbutton for manual control of the pump.
 
@@ -27,8 +28,6 @@ Connect the components according to the specified pins in the code.
 Usage
 Run the script on your microcontroller.
 The system will automatically turn on the pump when the soil moisture level falls below the threshold.
-
-![smart-irrigation](https://github.com/user-attachments/assets/c08286a2-5be8-4e2e-8830-91eaf47db556)
 
 
 Press the pushbutton to manually control the pump.
